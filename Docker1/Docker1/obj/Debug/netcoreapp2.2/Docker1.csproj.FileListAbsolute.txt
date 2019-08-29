@@ -1,0 +1,3 @@
+G:\RnD\Docker1\Docker1\obj\Debug\netcoreapp2.2\Docker1.csproj.CoreCompileInputs.cache
+G:\RnD\Docker1\Docker1\obj\Debug\netcoreapp2.2\Docker1.AssemblyInfoInputs.cache
+G:\RnD\Docker1\Docker1\obj\Debug\netcoreapp2.2\Docker1.AssemblyInfo.cs
